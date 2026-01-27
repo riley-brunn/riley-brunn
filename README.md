@@ -1,6 +1,6 @@
 - 👋 Hi, I’m riley
 - 👀 I’m interested in websites, mobile apps, UI/UX design, and more
-- 🌱 I’m currently learning web design and development at UCF
+- 🌱 I’m a graduate of UCF with a degree in Digital Media - Web and Social Platforms
 - 💕 Fun fact: I'm a big fan of hard rock and horror movies
 
 <!---
